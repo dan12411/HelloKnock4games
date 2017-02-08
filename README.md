@@ -12,7 +12,9 @@
 
 1. 
 
-![](https://github.com/dan12411/iOSFinalAssessmentQ4/blob/master/Q4_Demo.gif)
+![](https://github.com/dan12411/HelloKnock4games/blob/master/view1.png)
+![](https://github.com/dan12411/HelloKnock4games/blob/master/view2.png)
+![](https://github.com/dan12411/HelloKnock4games/blob/master/view3.png)
 
 
 
